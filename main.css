@@ -1,0 +1,19 @@
+.jumbotron {
+    font-size: 30px;
+    text-align: center;
+    background-color: #7e8ccf;
+    color: #c1f4e8;
+    margin-bottom: 0;
+}
+
+.navbar {
+    text-align: center;
+    padding-top: 1%;
+}
+
+.footer {
+    text-align: center;
+    border: 1px solid black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
